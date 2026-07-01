@@ -80,11 +80,7 @@ Este projeto está sob a licença MIT.
 ---
 
 ## 👨‍💻 Desenvolvedor
-
-Desenvolvido por **Seu Nome**
-
-GitHub:
-https://github.com/Iwilllovewhores
+- Iwilllovewhores
 
 ---
 
